@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+
+# Fichiers temporaires
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Bases de données SQLite
+*.db
+
+# Fichiers spécifiques à l'IDE (facultatif)
+.vscode/
+.idea/
